@@ -1,2 +1,2 @@
 # lista-1-java-una
-Lista de Exercício 1 em java
+Lista de exercício um em java, nesta lista está alguns algoritmos simples em JAVA.
